@@ -15,7 +15,10 @@
                     <a href="https://buy.stripe.com/test_eVacMZcDq9Og1Py7st"> Buy me a Taho<a/>
                 </div>
                 <div class="p-6 bg-white border-b border-gray-200">
-                    <a href="https://buy.stripe.com/test_eVacMZcDq9Og1Py7st"> Map Navigation Using Azure Map API<a/>
+                    <a href="/map"> Map Navigation Using Azure Map API<a/>
+                </div>
+                <div class="p-6 bg-white border-b border-gray-200">
+                    <a href="/facial-recognition"> A simple facial recognition task using Azure's Face client library for JavaScript API<a/>
                 </div>
             </div>
         </div>

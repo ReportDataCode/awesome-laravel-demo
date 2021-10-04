@@ -21,4 +21,12 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
 
+Route::get('/map', function () {
+    return view('map');
+});
+
+Route::get('/facial-recognition', function() {
+    return view('facial-recognition');
+});
+
 require __DIR__.'/auth.php';

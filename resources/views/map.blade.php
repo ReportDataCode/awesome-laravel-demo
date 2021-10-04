@@ -29,6 +29,7 @@
                 authOptions: {
                     //Use Azure Active Directory authentication.
                     authType: 'subscriptionKey',
+                    subscriptionKey: 'Nwy4WwMVu5HwqxthRAjJHpB9MUWoZF1j30kcoRtIBYI',
                     clientId: "04ec075f-3827-4aed-9975-d56301a2d663", //Your Azure Active Directory client id for accessing your Azure Maps account.
                     getToken: function (resolve, reject, map) {
                         //URL to your authentication service that retrieves an Azure Active Directory Token.
