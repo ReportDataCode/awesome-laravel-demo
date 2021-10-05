@@ -20,6 +20,9 @@
                 <div class="p-6 bg-white border-b border-gray-200">
                     <a href="/facial-recognition"> A simple facial recognition task using Azure's Face client library for JavaScript API<a/>
                 </div>
+                <div class="p-6 bg-white border-b border-gray-200">
+                    <a href="/posts"> Laravel CRUD <a/>
+                </div>
             </div>
         </div>
     </div>
